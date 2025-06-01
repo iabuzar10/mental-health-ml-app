@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Muhammad%20Abuzar/Desktop/ml-app/ml/mlruns/0/365841ec59044d9f9cb1da8b2d4dc76b/artifacts
+end_time: 1748788051001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 365841ec59044d9f9cb1da8b2d4dc76b
+run_name: fortunate-robin-466
+run_uuid: 365841ec59044d9f9cb1da8b2d4dc76b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748788042551
+status: 3
+tags: []
+user_id: Muhammad Abuzar

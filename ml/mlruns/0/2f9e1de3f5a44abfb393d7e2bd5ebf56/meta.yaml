@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Muhammad%20Abuzar/Desktop/ml-app/ml/mlruns/0/2f9e1de3f5a44abfb393d7e2bd5ebf56/artifacts
+end_time: 1748788056865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f9e1de3f5a44abfb393d7e2bd5ebf56
+run_name: silent-dog-269
+run_uuid: 2f9e1de3f5a44abfb393d7e2bd5ebf56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748788051025
+status: 3
+tags: []
+user_id: Muhammad Abuzar
