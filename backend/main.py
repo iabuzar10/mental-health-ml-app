@@ -5,7 +5,10 @@ import joblib
 app = FastAPI()
 
 # Load the trained model
-model = joblib.load("ml/model.pkl")  # Use relative path if needed
+  # model = joblib.load("ml/model.pkl")  # Use relative path if needed
+import os
+model = joblib.load(os.path.join(os.path.dirname(__file__), "../ml/model.pkl"))
+
 
 # Define the request body schema
 class InputData(BaseModel):
